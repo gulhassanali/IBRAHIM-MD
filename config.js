@@ -15,16 +15,16 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Kenya";
-global.github=process.env.GITHUB|| "https://github.com/ibrahimaitech/IBRAHIM-MD/tree/main";
-global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD";
-global.website=process.env.GURL || "https://www.youtube.com/@ibrahimmdgpt" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/fdeb9bdbfae04a6b62dd4.jpg" ; // SET LOGO FOR IMAGE 
+global.github=process.env.GITHUB|| "https://github.com/gulhassanali/IBRAHIM-MD";
+global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/Ci6fOzem2uELG8miFb8esT";
+global.website=process.env.GURL || "https://youtube.com/@youtubechann574?si=lLOvQ_I2Mp_v8N3w" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/4a84e36c84664cabf3cea.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
 global.devs = "923184474176" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "25471077266";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "62895614240406";
 
 
 
@@ -38,7 +38,7 @@ global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable W
 global.warncount = process.env.WARN_COUNT || 3,
 global.disablepm = process.env.DISABLE_PM || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/fdeb9bdbfae04a6b62dd4.jpg",
+global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/4a84e36c84664cabf3cea.jpg",
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
@@ -52,7 +52,7 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "25471077266,254xxxxxx
 global.read_status = process.env.AUTO_READ_STATUS || "true"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
 global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254710772666,254xxxxxxxx";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "62895614240406,254xxxxxxxx";
 
 global.api_smd = "https://api-smd-1.vercel.app"
 global.scan = "https://ibrahim-tech-1-4a7321f212d3.herokuapp.com/";
@@ -64,12 +64,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "©ⁱᵇʳᵃʰⁱᵐ ᵗᵉᶜʰ💥90✴" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "©Hassan ᵗᵉᶜʰ💥90✴" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ HASSAN²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • Dani ᴛᴇᴄʜ』*\n https://youtube.com/@youtubechann574?si=lLOvQ_I2Mp_v8N3w"),
  
   author : process.env.PACK_AUTHER|| "Ibrahim",
   packname: process.env.PACK_NAME || "👑",
-  botname : process.env.BOT_NAME  || " 𝗜𝗕𝗥𝗔𝗛𝗜𝗠-ᵐᵈ",
-  ownername:process.env.OWNER_NAME|| "It'x 𝗜𝗕𝗥𝗔𝗛𝗜𝗠",
+  botname : process.env.BOT_NAME  || " Hassan-ᵐᵈ",
+  ownername:process.env.OWNER_NAME|| "It'x Hassan",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
   errorChat : process.env.ERROR_CHAT || "",
