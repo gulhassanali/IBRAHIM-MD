@@ -1,5 +1,5 @@
 {
-  "name": "BLACK PANTHER MD@9.8.9",
+  "name": "HASSAN Brovhi MD@9.8.9",
   "description": "I am Ibrahim-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://www.youtube.com/@ibrahimmdgpt",
   "logo": "https://telegra.ph/file/fdeb9bdbfae04a6b62dd4.jpg",
   "keywords": ["whatsappbot", " PANTHER", " PANTHER Md bot", " PANTHER", " PANTHERMdWhatsaooBot", " PANTHERWaBot"," PANTHERMD"," PANTHER Md Whatsapp Bot","multi device"],
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "𝗠𝗥 𝗜𝗕𝗥𝗔𝗛𝗜𝗠",
+      "value": "𝗠𝗥 Hassan",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗪𝗔𝗕𝗢𝗧"
+      "value": "HASSAN-𝗪𝗔𝗕𝗢𝗧"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/fdeb9bdbfae04a6b62dd4.jpg"
+      "value": "https://telegra.ph/file/4a84e36c84664cabf3cea.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value": "HASSAN-𝗧𝗘𝗖𝗛",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value": "Hassan-𝗧𝗘𝗖𝗛",
       "required": false 
     }
   }, 
