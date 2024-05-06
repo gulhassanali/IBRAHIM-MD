@@ -25,21 +25,16 @@
 <a href="https://black-panther-scanner-871df7205958.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 
-<a href="https://black-panther-scanner-871df7205958.herokuapp.com/qr"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
+<a href="https://qr-code-panther-19894751f2f0.herokuapp.com/qr"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
 <br>
 
-<br>
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ibrahimaitech/BLACK-PANTHER-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=panther-md)
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://github.com/ibrahimaitech/BLACK-PANTHER-MD)
 
 <br>
 
-[`Deploy on Railway`](https://railway.app)
+<p align=""><a href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
 
-
-<br>
-
+</p>
 
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)
